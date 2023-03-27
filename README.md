@@ -1,4 +1,4 @@
-# Video-Captioning
+<!-- # Video-Captioning
 
 Video Captioning is an encoder decoder mode based on sequence to sequence learning.
 It takes a video as input and generates a caption describing the event in the video. 
@@ -176,4 +176,4 @@ To get more information on these search algorithms check out this <a href="https
  [Keras implementation](https://github.com/CryoliteZ/Video2Text)
  
 [Intelligent-Projects-Using-Python](https://github.com/PacktPublishing/Intelligent-Projects-Using-Python/blob/master/Chapter05) 
-
+ -->
